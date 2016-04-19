@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 Git creates a tracking system to. Helps keep everything organized.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Add documents that you want to commit immediatley to the staging area.
