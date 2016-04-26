@@ -9,3 +9,7 @@ Waste of overhead/resources
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Fork - When you want to work on the repo of someone else. Clone - when you want to take a repo and bring it to your machine. Branch - when you add a new feature.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+To always have a hard copy of a file in case something screwy happens
